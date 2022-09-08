@@ -1,2 +1,2 @@
 # to-do-s
- to-do uygulaması
+React.js to-do uygulaması
